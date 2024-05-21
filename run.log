@@ -1,0 +1,339 @@
+[2023-11-17 10:36:06,562] INFO --------------started a new run--------------
+[2023-11-17 10:36:06,578] INFO starting index 1
+[2023-11-17 10:36:27,299] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:36:27,308] INFO trying: 2077641477472
+[2023-11-17 10:36:27,311] INFO got right answer on training samples on attempt 0
+[2023-11-17 10:36:27,341] INFO starting index 2
+[2023-11-17 10:37:05,754] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:37:05,757] INFO trying: 2077641475712
+[2023-11-17 10:37:46,144] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:37:46,148] INFO trying: 2077641484672
+[2023-11-17 10:38:16,084] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:38:16,089] INFO trying: 2077641474432
+[2023-11-17 10:38:58,018] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:38:58,020] INFO trying: 2077641475232
+[2023-11-17 10:38:58,053] INFO starting index 3
+[2023-11-17 10:39:14,224] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:39:14,227] INFO trying: 2077641485792
+[2023-11-17 10:39:14,228] INFO got right answer on training samples on attempt 0
+[2023-11-17 10:39:14,253] INFO starting index 4
+[2023-11-17 10:39:40,210] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:39:40,213] INFO trying: 2077641474592
+[2023-11-17 10:40:18,131] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:40:18,135] INFO trying: 2077641483392
+[2023-11-17 10:41:00,387] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:41:00,391] INFO trying: 2077641476512
+[2023-11-17 10:41:00,396] WARNING cannot access local variable 'i' where it is not associated with a value
+[2023-11-17 10:41:47,516] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:41:47,520] INFO trying: 2077641483072
+[2023-11-17 10:41:47,546] INFO starting index 5
+[2023-11-17 10:42:03,289] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:42:03,292] INFO trying: 2077641482752
+[2023-11-17 10:42:03,293] WARNING list index out of range
+[2023-11-17 10:42:20,146] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:42:20,149] INFO trying: 2077641485472
+[2023-11-17 10:42:20,154] INFO got right answer on training samples on attempt 1
+[2023-11-17 10:42:20,177] INFO starting index 6
+[2023-11-17 10:42:36,078] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:42:36,081] INFO trying: 2077641485312
+[2023-11-17 10:42:36,082] INFO got right answer on training samples on attempt 0
+[2023-11-17 10:42:36,108] INFO starting index 7
+[2023-11-17 10:42:54,396] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:42:54,399] INFO trying: 2077641474432
+[2023-11-17 10:43:16,650] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:43:16,653] INFO trying: 2077641486432
+[2023-11-17 10:43:38,461] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:43:38,464] INFO trying: 2077641933184
+[2023-11-17 10:44:02,292] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:44:02,295] INFO trying: 2077641477312
+[2023-11-17 10:44:02,322] INFO starting index 8
+[2023-11-17 10:44:29,126] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:44:29,129] INFO trying: 2077641486272
+[2023-11-17 10:44:56,453] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:44:56,457] INFO trying: 2077641933984
+[2023-11-17 10:44:56,457] INFO got right answer on training samples on attempt 1
+[2023-11-17 10:44:56,482] INFO starting index 9
+[2023-11-17 10:45:32,236] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:45:32,240] INFO trying: 2077641476672
+[2023-11-17 10:45:32,241] CRITICAL color was unexpected and led to this: index 15 is out of bounds for axis 0 with size 15
+[2023-11-17 10:45:32,241] WARNING index 15 is out of bounds for axis 0 with size 15
+[2023-11-17 10:46:05,590] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:46:05,594] INFO trying: 2077641487072
+[2023-11-17 10:46:41,934] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:46:41,938] INFO trying: 2077641934464
+[2023-11-17 10:47:12,878] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:47:12,882] INFO trying: 2077641475872
+[2023-11-17 10:47:12,908] INFO starting index 10
+[2023-11-17 10:47:45,150] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:47:45,157] INFO trying: 2077641485152
+[2023-11-17 10:48:20,113] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:48:20,115] INFO trying: 2077641966112
+[2023-11-17 10:48:56,249] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:48:56,251] INFO trying: 2077641476992
+[2023-11-17 10:49:35,920] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:49:35,924] INFO trying: 2077641482592
+[2023-11-17 10:49:35,993] INFO starting index 11
+[2023-11-17 10:49:59,179] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:49:59,181] INFO trying: 2077641998880
+[2023-11-17 10:50:25,827] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:50:25,829] INFO trying: 2077641490112
+[2023-11-17 10:50:46,859] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:50:46,861] INFO trying: 2077641486912
+[2023-11-17 10:51:09,498] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:51:09,500] INFO trying: 2077641484672
+[2023-11-17 10:51:09,520] INFO starting index 12
+[2023-11-17 10:51:40,956] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:51:40,959] INFO trying: 2077642001280
+[2023-11-17 10:52:22,709] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:52:22,711] INFO trying: 2077641485152
+[2023-11-17 10:52:59,741] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:52:59,743] INFO trying: 2077641475872
+[2023-11-17 10:53:27,862] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:53:27,867] INFO trying: 2077641476512
+[2023-11-17 10:53:27,897] INFO starting index 13
+[2023-11-17 10:53:45,893] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:53:45,898] INFO trying: 2077641999200
+[2023-11-17 10:53:45,898] INFO got right answer on training samples on attempt 0
+[2023-11-17 10:53:45,927] INFO starting index 14
+[2023-11-17 10:54:14,067] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:54:14,071] INFO trying: 2077642002720
+[2023-11-17 10:54:44,808] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:54:44,811] INFO trying: 2077641487872
+[2023-11-17 10:55:10,054] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:55:10,058] INFO trying: 2077641475072
+[2023-11-17 10:55:39,469] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:55:39,473] INFO trying: 2077641476032
+[2023-11-17 10:55:39,502] INFO starting index 15
+[2023-11-17 10:56:04,152] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:56:04,156] INFO trying: 2077641488832
+[2023-11-17 10:56:26,621] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:56:26,627] INFO trying: 2077641489472
+[2023-11-17 10:56:26,628] INFO got right answer on training samples on attempt 1
+[2023-11-17 10:56:26,673] INFO starting index 16
+[2023-11-17 10:56:51,337] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:56:51,341] INFO trying: 2077641474752
+[2023-11-17 10:56:51,341] INFO got right answer on training samples on attempt 0
+[2023-11-17 10:56:51,362] INFO starting index 17
+[2023-11-17 10:57:00,507] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:57:00,510] INFO trying: 2077641488192
+[2023-11-17 10:57:00,510] INFO got right answer on training samples on attempt 0
+[2023-11-17 10:57:00,538] INFO starting index 18
+[2023-11-17 10:57:21,097] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:57:21,100] INFO trying: 2077641488832
+[2023-11-17 10:57:55,384] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:57:55,388] INFO trying: 2077641490272
+[2023-11-17 10:58:13,621] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:58:13,625] INFO trying: 2077641475232
+[2023-11-17 10:58:45,111] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:58:45,116] INFO trying: 2077641475232
+[2023-11-17 10:58:45,147] INFO starting index 19
+[2023-11-17 10:59:18,946] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:59:18,949] INFO trying: 2077641475072
+[2023-11-17 10:59:18,949] INFO got right answer on training samples on attempt 0
+[2023-11-17 10:59:18,978] INFO starting index 20
+[2023-11-17 10:59:39,915] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:59:39,921] INFO trying: 2077641486912
+[2023-11-17 10:59:58,741] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 10:59:58,751] INFO trying: 2077641478112
+[2023-11-17 11:00:36,859] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:00:36,870] INFO trying: 2077641489472
+[2023-11-17 11:01:04,240] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:01:04,245] INFO trying: 2077641482752
+[2023-11-17 11:01:04,278] INFO starting index 21
+[2023-11-17 11:01:35,624] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:01:35,628] INFO trying: 2077641487552
+[2023-11-17 11:01:35,628] INFO got right answer on training samples on attempt 0
+[2023-11-17 11:01:35,657] INFO starting index 22
+[2023-11-17 11:02:10,782] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:02:10,786] INFO trying: 2077641475072
+[2023-11-17 11:02:42,001] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:02:42,005] INFO trying: 2077641485152
+[2023-11-17 11:03:17,033] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:03:17,037] INFO trying: 2077641489952
+[2023-11-17 11:03:58,049] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:03:58,053] INFO trying: 2077641482912
+[2023-11-17 11:03:58,086] INFO starting index 23
+[2023-11-17 11:04:20,542] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:04:20,545] INFO trying: 2077641475072
+[2023-11-17 11:04:42,632] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:04:42,635] INFO trying: 2077641486272
+[2023-11-17 11:05:30,993] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:05:30,999] INFO trying: 2077641488672
+[2023-11-17 11:05:56,700] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:05:56,703] INFO trying: 2077641485152
+[2023-11-17 11:05:56,737] INFO starting index 24
+[2023-11-17 11:06:12,457] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:06:12,460] INFO trying: 2077641478112
+[2023-11-17 11:06:12,461] INFO got right answer on training samples on attempt 0
+[2023-11-17 11:06:12,485] INFO starting index 25
+[2023-11-17 11:06:34,164] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:06:34,168] INFO trying: 2077641486432
+[2023-11-17 11:07:01,719] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:07:01,726] INFO trying: 2077641476352
+[2023-11-17 11:07:27,181] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:07:27,186] INFO trying: 2077641489472
+[2023-11-17 11:07:50,459] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:07:50,466] INFO trying: 2077641488992
+[2023-11-17 11:07:50,501] INFO starting index 26
+[2023-11-17 11:08:19,355] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:08:19,359] INFO trying: 2077641490112
+[2023-11-17 11:08:19,359] INFO got right answer on training samples on attempt 0
+[2023-11-17 11:08:19,398] INFO starting index 27
+[2023-11-17 11:08:51,745] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:08:51,748] INFO trying: 2077641475232
+[2023-11-17 11:09:33,935] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:09:33,944] INFO trying: 2077641489472
+[2023-11-17 11:10:04,413] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:10:04,417] INFO trying: 2077641485472
+[2023-11-17 11:10:37,270] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:10:37,278] INFO trying: 2077641487232
+[2023-11-17 11:10:37,280] INFO got right answer on training samples on attempt 3
+[2023-11-17 11:10:37,317] INFO starting index 28
+[2023-11-17 11:10:52,270] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:10:52,274] INFO trying: 2077641482912
+[2023-11-17 11:11:08,623] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:11:08,628] INFO trying: 2077641484832
+[2023-11-17 11:11:26,161] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:11:26,164] INFO trying: 2077641476672
+[2023-11-17 11:11:45,477] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:11:45,481] INFO trying: 2077641485152
+[2023-11-17 11:11:45,525] INFO starting index 29
+[2023-11-17 11:12:16,189] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:12:16,193] INFO trying: 2077641477152
+[2023-11-17 11:12:47,838] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:12:47,843] INFO trying: 2077642115488
+[2023-11-17 11:13:28,747] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:13:28,752] INFO trying: 2077641475072
+[2023-11-17 11:14:02,027] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:14:02,036] INFO trying: 2077641487712
+[2023-11-17 11:14:02,076] INFO starting index 30
+[2023-11-17 11:14:22,799] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:14:22,805] INFO trying: 2077641485952
+[2023-11-17 11:14:42,116] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:14:42,119] INFO trying: 2077642114688
+[2023-11-17 11:15:09,870] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:15:09,874] INFO trying: 2077641482912
+[2023-11-17 11:15:35,200] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:15:35,204] INFO trying: 2077641487232
+[2023-11-17 11:15:35,250] INFO starting index 31
+[2023-11-17 11:15:56,185] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:15:56,188] INFO trying: 2077641483072
+[2023-11-17 11:51:52,243] INFO --------------started a new run--------------
+[2023-11-17 11:51:52,260] INFO starting index 31
+[2023-11-17 11:52:14,343] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 11:52:14,349] INFO trying: 2181456350240
+[2023-11-17 12:10:41,653] INFO --------------started a new run--------------
+[2023-11-17 12:10:41,702] INFO starting index 32
+[2023-11-17 12:11:25,097] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:11:25,101] INFO trying: 1561924750368
+[2023-11-17 12:12:06,283] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:12:06,287] INFO trying: 1561924747488
+[2023-11-17 12:12:49,018] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:12:49,022] INFO trying: 1561924753408
+[2023-11-17 12:13:38,521] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:13:38,534] INFO trying: 1561924750208
+[2023-11-17 12:13:38,583] INFO starting index 33
+[2023-11-17 12:14:22,023] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:14:22,027] INFO trying: 1561924747328
+[2023-11-17 12:14:22,028] INFO got right answer on training samples on attempt 0
+[2023-11-17 12:14:22,070] INFO starting index 34
+[2023-11-17 12:14:50,500] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:14:50,504] INFO trying: 1561924758208
+[2023-11-17 12:14:50,505] INFO got right answer on training samples on attempt 0
+[2023-11-17 12:14:50,540] INFO starting index 35
+[2023-11-17 12:15:10,134] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:15:10,137] INFO trying: 1561924761728
+[2023-11-17 12:15:10,137] INFO got right answer on training samples on attempt 0
+[2023-11-17 12:15:10,165] INFO starting index 36
+[2023-11-17 12:15:44,437] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:15:44,441] INFO trying: 1561924759968
+[2023-11-17 12:15:44,441] INFO got right answer on training samples on attempt 0
+[2023-11-17 12:15:44,476] INFO starting index 37
+[2023-11-17 12:15:56,906] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:15:56,909] INFO trying: 1561924756288
+[2023-11-17 12:15:56,910] INFO got right answer on training samples on attempt 0
+[2023-11-17 12:15:56,941] INFO starting index 38
+[2023-11-17 12:16:33,858] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:16:33,879] INFO trying: 1561924759168
+[2023-11-17 12:16:56,763] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:16:56,765] INFO trying: 1561924758368
+[2023-11-17 12:17:22,151] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:17:22,155] INFO trying: 1561924759488
+[2023-11-17 12:18:05,263] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:18:05,267] INFO trying: 1561924762048
+[2023-11-17 12:18:05,315] INFO starting index 39
+[2023-11-17 12:18:35,447] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:18:35,451] INFO trying: 1561924747328
+[2023-11-17 12:18:35,451] INFO got right answer on training samples on attempt 0
+[2023-11-17 12:18:35,491] INFO starting index 40
+[2023-11-17 12:19:05,051] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:19:05,055] INFO trying: 1561925142304
+[2023-11-17 12:19:39,025] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:19:39,029] INFO trying: 1561924748448
+[2023-11-17 12:20:17,461] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:20:17,465] INFO trying: 1561924762048
+[2023-11-17 12:20:59,986] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:20:59,990] INFO trying: 1561924760448
+[2023-11-17 12:21:00,024] INFO starting index 41
+[2023-11-17 12:21:29,364] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:21:29,367] INFO trying: 1561925190816
+[2023-11-17 12:21:29,368] INFO got right answer on training samples on attempt 0
+[2023-11-17 12:21:29,412] INFO starting index 42
+[2023-11-17 12:21:51,933] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:21:51,936] INFO trying: 1561924759648
+[2023-11-17 12:22:10,662] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:22:10,666] INFO trying: 1561924747488
+[2023-11-17 12:22:35,168] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:22:35,180] INFO trying: 1561924758368
+[2023-11-17 12:22:54,051] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:22:54,054] INFO trying: 1561924758528
+[2023-11-17 12:22:54,099] INFO starting index 43
+[2023-11-17 12:23:36,315] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:23:36,321] INFO trying: 1561924750048
+[2023-11-17 12:24:14,047] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:24:14,050] INFO trying: 1561924759488
+[2023-11-17 12:24:41,379] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:24:41,385] INFO trying: 1561924759648
+[2023-11-17 12:25:16,188] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:25:16,192] INFO trying: 1561924755488
+[2023-11-17 12:25:16,237] INFO starting index 44
+[2023-11-17 12:25:45,407] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:25:45,411] INFO trying: 1561924762208
+[2023-11-17 12:26:35,469] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:26:35,473] INFO trying: 1561924761568
+[2023-11-17 12:26:35,473] INFO got right answer on training samples on attempt 1
+[2023-11-17 12:26:35,512] INFO starting index 45
+[2023-11-17 12:26:58,263] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:26:58,267] INFO trying: 1561924761088
+[2023-11-17 12:26:58,268] INFO got right answer on training samples on attempt 0
+[2023-11-17 12:26:58,312] INFO starting index 46
+[2023-11-17 12:27:30,318] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:27:30,322] INFO trying: 1561924747648
+[2023-11-17 12:28:09,827] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:28:09,831] INFO trying: 1561924748288
+[2023-11-17 12:28:58,272] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:28:58,276] INFO trying: 1561924760448
+[2023-11-17 12:29:43,459] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:29:43,461] INFO trying: 1561924756768
+[2023-11-17 12:29:43,515] INFO starting index 47
+[2023-11-17 12:30:03,063] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:30:03,066] INFO trying: 1561924761888
+[2023-11-17 12:30:26,583] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:30:26,587] INFO trying: 1561924748608
+[2023-11-17 12:30:58,191] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:30:58,194] INFO trying: 1561924747648
+[2023-11-17 12:31:25,876] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:31:25,879] INFO trying: 1561925338432
+[2023-11-17 12:31:25,922] INFO starting index 48
+[2023-11-17 12:31:52,192] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:31:52,196] INFO trying: 1561925342112
+[2023-11-17 12:32:23,856] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:32:23,859] INFO trying: 1561924755648
+[2023-11-17 12:32:46,247] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:32:46,250] INFO trying: 1561924757888
+[2023-11-17 12:33:21,441] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:33:21,445] INFO trying: 1561924755648
+[2023-11-17 12:33:21,489] INFO starting index 49
+[2023-11-17 12:33:36,652] INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-11-17 12:33:36,655] INFO trying: 1561924759488
+[2023-11-17 12:33:36,656] INFO got right answer on training samples on attempt 0
